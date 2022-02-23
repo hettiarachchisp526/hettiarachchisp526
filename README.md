@@ -1,5 +1,5 @@
 
-<img src="https://github.com/hettiarachchisp526/hettiarachchisp526/blob/main/bannerimggit.png">
+<img src="https://github.com/hettiarachchisp526/hettiarachchisp526/blob/main/profgitadd.png">
 <h1 align="center">Hi 👋, I'm subo</h1>
 <h3 align="center">A passionate frontend developer from Sri-lanka</h3>
 
