@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **NSBM green University**
 
-- 🌱 I’m currently learning **Bootstrap React**
+- 🌱 I’m currently learning **Boostrap,React,Ux/Ui**
 
 - 📫 How to reach me **subodhapriyathushara01@gmail.com**
 
